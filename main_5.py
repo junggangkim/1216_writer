@@ -1,5 +1,3 @@
-#OPENAI_API_KEY = "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"
-
 from langchain_openai import ChatOpenAI
 import streamlit as st
 
